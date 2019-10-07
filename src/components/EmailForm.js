@@ -1,3 +1,5 @@
+import React, { Component } from 'react';
+
 <form name="contact" id="signup-form" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
