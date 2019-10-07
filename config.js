@@ -9,9 +9,9 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
    // pathPrefix: `/gatsby-starter-eventually/`, This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Speckled',
+  heading: 'Speckled is a better way to make product decisions.',
   subHeading:
-    "A better way to make product decisions is coming soon. Get on the launch list and be the first to get access.",
+    "Get on the launch list and be the first to get access.",
   socialLinks: [
     // {
     //   icon: 'fa-github',
