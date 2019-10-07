@@ -24,7 +24,7 @@
 			margin: 0 0 0 0;
 		}
 
-		@include breakpoint('<=xsmall') {
+		@include breakpoint('<=medium') {
 			@include vendor('flex-direction', 'column');
 
 			input[type="type"],

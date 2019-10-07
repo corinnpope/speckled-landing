@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Speckled',
   subHeading:
-    "Make better product decisions",
+    "A better way to make product decisions is coming soon. Get on the launch list and be the first to get access.",
   socialLinks: [
     // {
     //   icon: 'fa-github',

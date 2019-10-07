@@ -90,7 +90,7 @@
 		&:focus {
 			@include vendor('animation', 'focus 0.1s');
 			background-color: _palette(border-bg);
-			border-color: _palette(accent, bg);
+			border-color: #F8B500;
 		}
 	}
 

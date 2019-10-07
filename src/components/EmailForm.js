@@ -6,14 +6,14 @@ export class EmailForm extends Component {
     return (
       <form name="contact" id="signup-form" method="POST" data-netlify="true">
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <input type="text" name="name" placeholder="name"/> 
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <input type="email" name="email" placeholder="email address"/>
 
   </p>
   <p>
-    <input type="submit">Get Updates</button>
+    <button type="submit">Get Updates</button>
   </p>
 </form>
     );

@@ -17,14 +17,14 @@
 			'color #{_duration(transition)} ease-in-out',
 			'opacity #{_duration(transition)} ease-in-out'
 		));
-		background-color: _palette(accent, bg);
+		background-color: #F8B500;
 		border-radius: _size(border-radius);
 		border: 0;
 		color: _palette(accent, fg-bold) !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: _font(weight-bold);
-		height: _size(element-height);
+		height: 53px;
 		line-height: _size(element-height);
 		padding: 0 1.125em;
 		text-align: center;
@@ -32,7 +32,7 @@
 		white-space: nowrap;
 
 		&:hover {
-			background-color: lighten(_palette(accent, bg), 5);
+			background-color: lighten(#F8B500, 5);
 		}
 
 		&:active {
